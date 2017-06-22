@@ -24,12 +24,14 @@ school_of_rock = media.Movie("School of Rock",
 ratatouille = media.Movie("Ratatouille",
 						  "A rat is a chef in Paris",
 						  "http://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
-						  "https://www.youtube.com/watch?v=c3sBBxDAqk")
+						  "https://vimeo.com/40123311")
 
 midnight_in_paris = media.Movie("Midnight in Paris",
 								"Going back in time to meet authors",
 								"http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
-								"https://www.youtube.com/watch?v=atLg2wQQxvU")
+								"https://www.youtube.com/watch?v=FAfR8omt-CY")
+
+
 
 
 movies = [toy_story, avatar, die_in_the_west, school_of_rock, ratatouille, midnight_in_paris]
